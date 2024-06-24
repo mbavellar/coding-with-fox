@@ -1,4 +1,10 @@
+#JAVA
+#IntelliJ
+
 .out/
 .idea/
 *.iml
 *.iws
+*.obj
+
+#END OF FILE
