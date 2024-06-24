@@ -1,7 +1,7 @@
 #JAVA
 #IntelliJ
 
-.out/
+out/
 .idea/
 *.iml
 *.iws
