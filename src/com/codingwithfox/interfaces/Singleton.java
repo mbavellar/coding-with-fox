@@ -1,13 +1,13 @@
-package com.codewithfox.interfaces;
+package com.codingwithfox.interfaces;
 
-import com.codewithfox.singletons.EagerInit;
-import com.codewithfox.singletons.EagerInitWithStaticBlock;
-import com.codewithfox.singletons.EagerEnum;
-import com.codewithfox.utils.FILE_TYPE;
-import com.codewithfox.singletons.LazyInit;
-import com.codewithfox.singletons.LazyInitWithDCL;
-import com.codewithfox.singletons.LazyInitWithInnerClass;
-import com.codewithfox.singletons.LazyInitSync;
+import com.codingwithfox.singletons.EagerInit;
+import com.codingwithfox.singletons.EagerInitWithStaticBlock;
+import com.codingwithfox.singletons.EagerEnum;
+import com.codingwithfox.utils.FILE_TYPE;
+import com.codingwithfox.singletons.LazyInit;
+import com.codingwithfox.singletons.LazyInitWithDCL;
+import com.codingwithfox.singletons.LazyInitWithInnerClass;
+import com.codingwithfox.singletons.LazyInitSync;
 
 import java.io.*;
 

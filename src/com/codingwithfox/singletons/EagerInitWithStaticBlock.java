@@ -1,7 +1,7 @@
-package com.codewithfox.singletons;
+package com.codingwithfox.singletons;
 
-import com.codewithfox.exceptions.SingletonException;
-import com.codewithfox.interfaces.Singleton;
+import com.codingwithfox.exceptions.SingletonException;
+import com.codingwithfox.interfaces.Singleton;
 
 public final class EagerInitWithStaticBlock implements Singleton {
   private static final EagerInitWithStaticBlock INSTANCE;

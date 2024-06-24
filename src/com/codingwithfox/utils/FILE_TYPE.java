@@ -1,4 +1,4 @@
-package com.codewithfox.utils;
+package com.codingwithfox.utils;
 
 public enum FILE_TYPE {
   OBJECT(".obj"),

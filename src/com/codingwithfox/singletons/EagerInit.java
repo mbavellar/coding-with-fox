@@ -1,6 +1,6 @@
-package com.codewithfox.singletons;
+package com.codingwithfox.singletons;
 
-import com.codewithfox.interfaces.Singleton;
+import com.codingwithfox.interfaces.Singleton;
 import java.io.Serial;
 
 public final class EagerInit implements Singleton {

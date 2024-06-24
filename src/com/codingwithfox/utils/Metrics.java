@@ -1,4 +1,4 @@
-package com.codewithfox.utils;
+package com.codingwithfox.utils;
 
 public final class Metrics {
   private static long start;

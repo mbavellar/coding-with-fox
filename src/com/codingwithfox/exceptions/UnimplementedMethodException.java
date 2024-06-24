@@ -1,4 +1,4 @@
-package com.codewithfox.exceptions;
+package com.codingwithfox.exceptions;
 
 public class UnimplementedMethodException extends RuntimeException {
   public UnimplementedMethodException(String errorMessage) {
