@@ -1,0 +1,9 @@
+### INTELLIJ IDE ###
+
+out/
+.idea/
+*.iml
+*.iws
+*.obj
+
+#END OF FILE
